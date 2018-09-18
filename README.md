@@ -1,2 +1,2 @@
 # SDOS
-SDOU is a super distributed operating system for BlockChain
+SDOS is a super distributed operating system for BlockChain
